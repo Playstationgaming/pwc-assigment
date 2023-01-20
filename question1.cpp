@@ -2,7 +2,7 @@
 using namespace std;
 int main(){
     int m,n;
-cout<<"x=2";
+cout<<"x=";
 cin>>n;
 cout<<"y=";
 cin>>m;
